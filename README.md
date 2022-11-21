@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi everyone!
+
+I'm excited to be here and collaborate with others as I continue my journey as a programmer!
 
 <!--
 **YBFelder485/YBFelder485** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
